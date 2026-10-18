@@ -1,0 +1,13 @@
+{
+  "name": "hello-custom-action",
+  "version": "1.0.0",
+  "description": "Custom GitHub Action for DevOps Lab",
+  "main": "index.js",
+  "dependencies": {
+    "@actions/core": "1.11.1",
+    "@actions/github": "6.0.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.1"
+  }
+}
